@@ -1,4 +1,3 @@
-<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/b9d0d664-b6d3-42e1-aec2-92918a39dbee" /><img width="432" height="18" alt="image" src="https://github.com/user-attachments/assets/1d427791-325c-489a-a224-15471fb29f4e" />
 <h1 align="center">医疗大模型基础</h1>
 
 
