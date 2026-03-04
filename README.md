@@ -1,4 +1,4 @@
-
+<img width="432" height="16" alt="image" src="https://github.com/user-attachments/assets/b9d0d664-b6d3-42e1-aec2-92918a39dbee" /><img width="432" height="18" alt="image" src="https://github.com/user-attachments/assets/1d427791-325c-489a-a224-15471fb29f4e" />
 <h1 align="center">医疗大模型基础</h1>
 
 
@@ -22,7 +22,7 @@
 <table>
     <tr>
         <th style="text-align:center; width: 25%;">章节</th>
-        <th style="text-align:center; width: 75%;" colspan="3">所含内容</th>
+        <th style="text-align:center; width: 75%;" colspan="4">所含内容</th>
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第一部分：从人工智能到医疗大模型</a></b></td>
@@ -50,9 +50,10 @@
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第五部分：挑战、伦理与未来</a></b></td>
-        <td>13 安全、隐私与伦理规范</td>
-        <td>14未来展望：走向通用医疗人工智能</td>
-        <td></td>
+        <td style="width: 25%;"><a href="content/chapter-15.pdf">15 悬在头顶的达摩克利斯之剑：机器幻觉（Hallucinations）</a></td>
+        <td style="width: 25%;"><a href="content/chapter-16.pdf">16 数据隐私、安全与合规</a></td>
+        <td style="width: 25%;"><a href="content/chapter-17.pdf">17 医学伦理与算法偏见</a></td>
+        <td style="width: 25%;"><a href="content/chapter-18.pdf">18 未来展望：多模态与医疗AGI</a></td>
     </tr>
     <tr>
 </table>
