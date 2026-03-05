@@ -44,10 +44,10 @@
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第四部分：前沿临床与科研应用</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter 11.pdf">7  临床决策支持系统（CDSS）的智能化跃迁</td>
-        <td style="width: 25%;"><a href="content/chapter 12.pdf">7  医疗文书自动化与环境临床智能（ACI）</td>
-        <td style="width: 25%;"><a href="content/chapter 13.pdf">7  多模态医疗大模型</td>
-        <td style="width: 25%;"><a href="content/chapter 13.pdf">7  生命科学前沿：大模型加速新药研发</td>
+        <td style="width: 25%;"><a href="content/chapter 11.pdf">11  临床决策支持系统（CDSS）的智能化跃迁</td>
+        <td style="width: 25%;"><a href="content/chapter 12.pdf">12  医疗文书自动化与环境临床智能（ACI）</td>
+        <td style="width: 25%;"><a href="content/chapter 13.pdf">13  患者体验重塑：全生命周期的智能管家</td>
+        <td style="width: 25%;"><a href="content/chapter 13.pdf">14  生命科学前沿：大模型加速新药研发</td>
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第五部分：挑战、伦理与未来</a></b></td>
