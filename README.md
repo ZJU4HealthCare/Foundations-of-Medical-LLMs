@@ -37,10 +37,10 @@
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第三部分：从通用领域到医疗垂直领域</a></b></td>
-        <td style="width: 25%;"><a href="content/chapter-7.pdf">7 医疗数据的基石：构建与清洗</td>
-        <td style="width: 25%;"><a href="content/chapter-8.pdf">8 医疗领域的大模型微调技术</td>
+        <td style="width: 25%;"><a href="content/chapter-7.pdf">7 医疗数据的金矿与炼金术</td>
+        <td style="width: 25%;"><a href="content/chapter-8.pdf">8 医疗大模型的垂直化训练策略</td>
         <td style="width: 25%;"><a href="content/chapter-9.pdf">9 医疗大模型前沿技术 </td>
-        <td style="width: 25%;"><a href="content/chapter-10.pdf">10 医疗大模型的评测体系</td>
+        <td style="width: 25%;"><a href="content/chapter-10.pdf">10 医疗大模型的评测与基准</td>
     </tr>
     <tr>
         <td rowspan="1"><b><a href="https://github.com/ZJU-LLMs/Foundations-of-Medical-LLMs">第四部分：前沿临床与科研应用</a></b></td>
